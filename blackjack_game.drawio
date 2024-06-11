@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" modified="2024-06-11T10:03:45.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Ihcn4ED9p-AbkiPABP-X" version="24.5.2" type="github">
+  <diagram name="Page-1" id="uYKCd3mV8O4ti7NcF_D_">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-1" value="Start Program" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="300" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-2" value="Initialise card Deck, user hand and dealer Hand&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="300" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-3" target="aAZHC9F-qxMOcgAbihTT-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-3" value="Initialise card Deck, user hand and dealer Hand&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="300" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-4" target="aAZHC9F-qxMOcgAbihTT-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-4" value="Start Program" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="300" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-6" target="aAZHC9F-qxMOcgAbihTT-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-9" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="aAZHC9F-qxMOcgAbihTT-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.3385" relative="1" as="geometry">
+            <mxPoint x="17" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-6" target="aAZHC9F-qxMOcgAbihTT-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-32" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="aAZHC9F-qxMOcgAbihTT-14" vertex="1" connectable="0">
+          <mxGeometry x="0.24" y="-3" relative="1" as="geometry">
+            <mxPoint x="18" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-6" value="Does user want to play&lt;div&gt;or is it turn 1?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="300" y="200" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-7" value="End Program" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="580" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-13" target="aAZHC9F-qxMOcgAbihTT-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-13" value="Deal 2 cards to both players" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="300" y="330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-16" target="aAZHC9F-qxMOcgAbihTT-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-25" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="aAZHC9F-qxMOcgAbihTT-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.2769" y="-1" relative="1" as="geometry">
+            <mxPoint x="23" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-16" target="aAZHC9F-qxMOcgAbihTT-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-33" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="aAZHC9F-qxMOcgAbihTT-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.3623" y="2" relative="1" as="geometry">
+            <mxPoint x="13" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-16" value="Is user bust or &quot;standing&quot;?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="300" y="420" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-20" target="aAZHC9F-qxMOcgAbihTT-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-20" value="Calculate Winner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="300" y="650" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-22" target="aAZHC9F-qxMOcgAbihTT-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-22" value="Deal player 1 card (making adjustments for aces)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="580" y="440" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-26" target="aAZHC9F-qxMOcgAbihTT-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-26" value="Deal cards to the dealer until hand is worth &amp;gt; 17" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="300" y="554.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aAZHC9F-qxMOcgAbihTT-29" target="aAZHC9F-qxMOcgAbihTT-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="770" />
+              <mxPoint x="250" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAZHC9F-qxMOcgAbihTT-29" value="Ask user if they want another game" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="300" y="740" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
